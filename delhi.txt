@@ -1,0 +1,10 @@
+this is first git for delhi
+<<<<<<< HEAD
+
+
+this 3rd line add from ec2
+=======
+this line is edited from github web login
+>>>>>>> 629f22e09658ef892fb3fdddc15a60f228a8ae2a
+
+from mumbai updated first time
